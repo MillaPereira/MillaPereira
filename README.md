@@ -10,10 +10,10 @@ Engenheira de Computação e profissional da área de dados. Desenvolvo soluçõ
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MillaPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillaPereira&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+</div> -->
 
 ---
 
